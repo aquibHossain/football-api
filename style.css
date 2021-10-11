@@ -1,0 +1,20 @@
+body{
+    background-image:linear-gradient(skyblue,white);
+    background-repeat: no-repeat;
+    
+}
+.color{
+    
+    color: rgb(2, 2, 136);
+    font-size: 3em;
+    
+    text-align: center;
+    text-shadow: -6px 7px 5px rgb(255, 255, 255);
+}
+.col{
+    color: rgb(2, 2, 136);
+}
+#search{
+     
+    background-color:  rgb(2, 2, 136);
+}
